@@ -43,3 +43,5 @@ I'm sorry if you're experienced with installing riivo mods and had to look at th
 on installing riivo hacks and stuff on the homebrew channel was overcomplicated and made the already strong introduction barrier to Wii hacking even stronger. The text file
 in the open source folder will probably be worse. I'm going to try to explain everything as thoroughly and with as little of an introduction barrier as I can. Anyway, this
 hack doesn't even exist yet lmfao. I'm going to go upload some of the stuff I've already done then get back to work!
+
+##### Oooh! I almost forgot! DO NOT DOWNLOAD THIS YET. IT IS **USELESS**. Wait until it's done, like I said, you can't do anything with it right now. 
