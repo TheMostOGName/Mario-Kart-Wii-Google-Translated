@@ -1,0 +1,209 @@
+#BMG  <<<  The first 4 characters '#BMG' are the magic for a BMG text file.
+#     <<<  Don't remove them!
+#
+# Details about BMG text files are available in the Web:
+#  * Syntax and Semantics: https://szs.wiimm.de/doc/bmg/text
+#  * The BMG file format:  https://szs.wiimm.de/r/wiki/BMG
+#
+#
+#------------------------------------------------------------------------------
+
+  22c4	= \c{red1}\z{802,110000}\n
+	+ \c{transp}\z{802,110001}
+  22c5	= \c{transp}\z{802,110000}\n
+	+ \c{off}\z{802,110001}
+  22c6	= \z{802,110001}
+  22c7	= 
+  22c8	= 
+  22c9	= 
+  22ca	= 
+  22cb	= 
+  22cc	= 
+  22cd	= 
+  22ce	= GENERAL PRODUCER
+  22cf	=   Shigeru Miyamoto
+  22d0	= PRODUCER
+  22d1	=   Hideki Konno
+  22d2	= DIRECTOR
+  22d3	=   Yasuyuki Oyagi
+  22d4	= PLANNING
+  22d5	=   Minoru Narita\n
+	+   Taku Matoba\n
+	+   Kentaro Tominaga\n
+	+   Yugo Hayashi\n
+	+   Kosuke Yabuki
+  22d6	= PROGRAMMING DIRECTOR
+  22d7	=   Katsuhisa Sato
+  22d8	= PROGRAMMING
+  22d9	=   Yusuke Shiraiwa\n
+	+   Yukihiko Ito\n
+	+   Keiichiro Kato\n
+	+   Ichiro Suzuki
+  22da	=   Shigetoshi Kitayama\n
+	+   Jun Ito\n
+	+   Takeshi Miyamoto\n
+	+   Yoshinori Konishi\n
+	+   Takahiro Takayama\n
+	+   Kensuke Muraki
+  22db	= COURSE DIRECTORS
+  22dc	=   Hirotake Ohtsubo\n
+	+   Yoshihisa Morimoto
+  22dd	= COURSE DESIGN
+  22de	=   Koji Kitagawa\n
+	+   Taeko Sugawara\n
+	+   Akito Osanai\n
+	+   Yasutomo Nishibe
+  22df	=   Miki Watanabe\n
+	+   Masahiro Kawanishi\n
+	+   Shunichi Shirai\n
+	+   Atsushi Miyagi\n
+	+   Mari Fujita
+  22e0	= CHARACTER DIRECTOR
+  22e1	=   Daisuke Kageyama
+  22e2	= CHARACTER DESIGN
+  22e3	=   Keisuke Nishimori\n
+	+   Tomomi Iwasaki\n
+	+   Yoko Tanaka\n
+	+   Kazunori Fujii
+  22e4	=   Hiroyuki Inoue\n
+	+   Takahiro Koizumi\n
+	+   Shuhan Goya\n
+	+   Shinsuke Yamasaki
+  22e5	= UI DESIGN
+  22e6	=   Tokihiko Toyoda
+  22e7	= EFFECTS DESIGN
+  22e8	=   Yoko Fukuda
+  22e9	= 
+  22ea	= 
+  22eb	= 
+  22ec	= DESIGN SUPPORT
+  22ed	=   Yoshiki Haruhana\n
+	+   Takahiro Hamaguchi\n
+	+   Keijiro Inoue
+  22ee	=   Akiko Hirono\n
+	+   Michiko Iwasawa\n
+	+   Takuro Shimizu\n
+	+   Takeshi Koike
+  22ef	= MUSIC
+  22f0	=   Asuka Ohta\n
+	+   Ryo Nagamatsu
+  22f1	= SOUND EFFECTS
+  22f2	=   Atsushi Masaki\n
+	+   Masato Mizuta
+  22f3	= SOUND SUPPORT
+  22f4	=   Hajime Wakai
+  22f5	= DEMO MOVIE DIRECTOR
+  22f6	=   Hiroyasu Kuwabara
+  22f7	= DEMO MOVIE
+  22f8	=   Shigeki Yoshida\n
+	+   Daisuke Nobori\n
+	+   Eriko Kimura\n
+	+   Chiaki Aida\n
+	+   Naoki Mori
+  22f9	= VOICE
+  22fa	=   Charles Martinet\n
+	+   Sam Kelly\n
+	+   Deanna Mustard\n
+	+   Kenny James\n
+	+   Caety Sagoian
+  22fb	=   Mercedez Rose\n
+	+   Takashi Nagasako\n
+	+   Katsumi Suzuki\n
+	+   Toshihide Tsuchiya\n
+	+   Kazumi Totaka
+  22fc	=   Ayumi Nagao\n
+	+   Fumihiro Okabayashi\n
+	+   Hitomi Hirose\n
+	+   Katsuhiro Harasawa
+  22fd	=   Takuya Sato\n
+	+   Tomo Adachi\n
+	+   Tomoyuki Higuchi\n
+	+   Yuko Kaida
+  22fe	= PROGRESS MANAGEMENT
+  22ff	=   Keizo Kato
+  2300	= TECHNICAL SUPPORT
+  2301	=   Hironobu Kakui\n
+	+   Shintaro Jikumaru
+  2302	= PROGRAMMING SUPPORT
+  2303	=   Tetsuya Nakata\n
+	+   Keizo Ohta\n
+	+   Takuhiro Dohta\n
+	+   Programming Support Group
+  2304	= DEBUG
+  2305	=   Yuuki Tanikawa\n
+	+   Akihiro Sakatani\n
+	+   Super Mario Club
+  2306	= NOA LOCALIZATION
+  2307	=   Gema Almoguera\n
+	+   Ann Lin\n
+	+   Reiko Ninomiya\n
+	+   Kevin Sullivan
+  2308	= NOA LOCALIZATION\n
+	+ MANAGEMENT
+  2309	=   Nate Bihldorff\n
+	+   Jeff Miller\n
+	+   Leslie Swan
+  230a	= NOA PRODUCT TESTING
+  230b	=   Masayasu Nakata\n
+	+   Robert Crombie\n
+	+   Kyle Hudson\n
+	+   Eric Bush
+  230c	=   Sean Egan\n
+	+   Tim Casey\n
+	+   Patrick Taylor\n
+	+   Roger Harrison
+  230d	=   Melvin Forrest\n
+	+   Israel Cruz-Morales\n
+	+   Jason Mahaffa\n
+	+   David Hunziker\n
+	+   Tomoko Mikami
+  230e	= NOE EUROPEAN\n
+	+ LOCALISATION MANAGEMENT
+  230f	=   Andy Fey\n
+	+   Takashi Katagiri
+  2310	= NOE TRANSLATION
+  2311	=   Andrea Jähn\n
+	+   Thomas Berthollet\n
+	+   Amparo Almodóvar Prieto\n
+	+   Alessandro De Luca\n
+	+   Patrick Shields
+  2312	= NOE TESTING TEAM
+  2313	=   Andrea De Benedetto\n
+	+   Patrick Thorenz\n
+	+   Guillaume Deschamps\n
+	+   Arrate Ugarte Sandonís\n
+	+   Pietro Faccio
+  2314	= GRAPHIC SUPERVISORS
+  2315	=   Yo Ohnishi\n
+	+   Tsuyoshi Watanabe
+  2316	= ARTWORK
+  2317	=   Takayoshi Matsui\n
+	+   Keisuke Kadota
+  2318	= CG ILLUSTRATION
+  2319	=   Yuri Adachi\n
+	+   Shigehisa Nakaue\n
+	+   Naoko Ayabe
+  231a	= CG ILLUSTRATION\n
+	+ SUPERVISORS
+  231b	=   Wataru Yamaguchi\n
+	+   Yusuke Nakano
+  231c	= SPECIAL THANKS
+  231d	=   Shigeo Touma\n
+	+   Eitaro Yamamoto\n
+	+   Naoki Nakamura\n
+	+   Taro Bando
+  231e	= EXECUTIVE PRODUCER
+  231f	=   Satoru Iwata
+  2320	= \z{800,50}All Rights, including the copyrights of Game, Scenario,\n
+	+ Music and Program, reserved by Nintendo. \040
+  2321	=   Takumi Kawagoe\n
+	+   Haruyasu Ito\n
+	+   DIGITALSCAPE Co., Ltd.\n
+	+   All EAD
+  2322	= 
+  2323	= 
+  2324	= 
+  2325	= 
+  2326	= 
+  2327	= 
+

@@ -1,0 +1,2155 @@
+#BMG  <<<  The first 4 characters '#BMG' are the magic for a BMG text file.
+#     <<<  Don't remove them!
+#
+# Details about BMG text files are available in the Web:
+#  * Syntax and Semantics: https://szs.wiimm.de/doc/bmg/text
+#  * The BMG file format:  https://szs.wiimm.de/r/wiki/BMG
+#
+#
+#------------------------------------------------------------------------------
+
+#--- online chat
+
+  M01	= Gay!
+  M02	= Gay!
+  M03	= See you later!
+  M04	= Zimbabwe!
+  M05	= Beliefs and expectations
+  M06	= Gay!
+  M07	= Is anyone here?
+  M08	= time!
+  M09	= what is this
+  M10	= Coming soon
+  M11	= I waited for about three minutes
+  M12	= I bought it
+  M13	= Tape!
+  M14	= Let's get started!
+  M15	= Just ...
+  M16	= I will try
+  M17	= Where do you want to play?
+  M18	= Do you have a request?
+  M19	= Why does the US blame them?
+  M20	= What ... I do not know
+  M21	= American race
+  M22	= Problems in Africa
+  M23	= Balangeweg!
+  M24	= He is still running with a pen.
+  M25	= Light
+  M26	= Medium weight
+  M27	= Use the pod.
+  M28	= Leave me
+  M29	= I use Wii Magazine!
+  M30	= I'm behind the wheel
+  M31	= I ride a bike!
+  M32	= Choices Products ... hum ...
+  M33	= what do I do
+  M34	= People ...
+  M35	= here it is.
+  M36	= Try this method
+  M37	= Maca Luga!
+  M38	= Momo - Modes!
+  M39	= Not seen for a long time!
+  M40	= Timber factory
+  M41	= Mario Kara!
+  M42	= Take almonds.
+  M43	= DJ
+  M44	= Copper tomorrow
+  M45	= I love you
+  M46	= Cape Cape!
+  M47	= the film!
+  M48	= Monte Bromo!
+  M49	= Woma!
+  M50	= Find the moon
+  M51	= Search the Web
+  M52	= Murarang!
+  M53	= Thank you GCN Sea!
+  M54	= Your people
+  M55	= SNES 2 Ghost!
+  M56	= Mario N64 Song Contest!
+  M57	= Reading N64!
+  M58	= Shame on your GBA brand!
+  M59	= Dolphin DS Game!
+  M60	= GCN Marketing Campaign!
+  M61	= Desert DS Desert Book!
+  M62	= Strengthen the community
+  M63	= Bubble N64 DK!
+  M64	= GCN City GCN!
+  M65	= SNES Mario Series 3!
+  M66	= Thank you King DS!
+  M67	= GCN DK Berg!
+  M68	= Explorer slot N64
+  M69	= Ogige Ogige!
+  M70	= Dera Dolphin!
+  M71	= Garden!
+  M72	= Wat Tai Chum!
+  M73	= Steal!
+  M74	= SNG Agha 4
+  M75	= Battle for GBA 3!
+  M76	= Baby N64!
+  M77	= GCN Koekieland!
+  M78	= Up DS!
+  M79	= He is red
+  M80	= Hey heaven!
+  M81	= How do we do that?
+  M82	= I was the first
+  M83	= Get started fast!
+  M84	= Gay!
+  M85	= Fun
+  M86	= Good game
+  M87	= Yes. Devil!
+  M88	= I repeat
+  M89	= World Health Organization!
+  M90	= Failed
+  M91	= The final color is here.
+  M92	= Thank you for the call
+  M93	= Thank you
+  M94	= Hello
+  M95	= Check you out
+  M96	= No
+
+#--- other messages
+
+     1	/
+
+   7d0	= Everything is in place
+   7d1	= Back to \z{802,170000}Back
+   7d2	= Yes
+   7d3	= no
+   7d4	/
+   7d5	= →
+   7d6	/
+   7d7	= ←
+   7d8	/
+   7d9	= \z{a02,1000000000}/\z{a02,1000010000}
+   7da	= Mario Kart Yes
+   7db	= Player
+   7dc	= Multiplayer
+   7dd	= Nintendo WWF
+   7de	= Mario Kart Street
+   7df	= Permission status
+   7e0	= Diagram
+   7e1	= Press the button
+   7e2	= The basic list
+   7e3	/
+   7e4	= Play the Big Pearl and many other ways
+   7e5	= Race or compete in two sports.
+   7e6	= Race or race in three sports.
+   7e7	= Against a tournament or player.
+   7e8	= Play online.
+   7e9	= Play online with your friend.
+   7ea	= Watch the assessment and enter the contest
+   7eb	= Check the data and make thousands of changes.
+   7ec	/
+   7ed	/
+   7ee	= Multiplayer (2P)
+   7ef	= Multiplayer (3P)
+   7f0	= Multiplayer (4P)
+   7f1	= Nintendo WFC (1P)
+   7f2	= Nintendo WFC (2P)OK
+   7f3	/
+   802	= Kindly.\n
+	+ Game Mario Kart Y\n
+	+ Disk added\n
+	+ Wait for the game.\n
+	+ To start
+   803	= Toy cannot be dropped \n
+	+ Read Take a look at the Wii\n
+	Surgery book for details.
+   804	= An error has occurred.\n
+	+ \n
+	+ Click on the trim edge and remove the highlighted /n
+	+ Disk, boot system. Read on /n
+	+ Wi-Fi service guide for more information.
+   805	= Not enough space. /n
+	+ Wii memory system. 23. Make /n
+	+ Block data field. /n
+	+ Delete data from SD card or /n
+	+ On the data management screen.
+   806	= Wii memory n
+	+ Corruption. See /n
+	+ Wii workbook/n
+	+ Other suggestions.
+   807	= This file cannot be used because = file\n
+	+ Delete the file due to data corruption. /n
+	+ Do you create new ones?
+   808	/
+   809	= irreparable / irreparable \ n
+	+ Wii memory system. /n
+	+ /n
+	+ See for more information
+	+ Wi-Fi service is available.
+   80a	= You can go back to the Wii menu.
+   80b	= Storage started.
+   80c	= Return to Wii menu.
+   80d	= You cannot select this menu\n
+	+ because no file is saved.
+   80e	= No file saved\n
+	+ Read\n
+	+ \n
+	+ Install Mario Cart Y.\n
+	+ Game discs
+   80f	= game transfer process.
+   810	= You return\n
+	+ Wii offer is fine
+   811	= Save........\n
+	+ Don't talk\n
+	+ Backup or reset button.
+   812	= irreparable \n
+	+ MI channel for data storage.\n
+	+ \n
+	+ Watch my channel.
+   813	=  If MMI is your only choice n\n
+	+ Removed from MI channel.\n
+	+ You are using \n
+	+ Mario Kart Y\n
+	+ Life. Please note.
+   814	= license n\n
+	+ Guest\n
+	+ Thousands. You can create\n
+	+ New MI2?\n
+	+ M channel
+   815	= You can send in five caves.\n
+	+ Struggling to play time.\n
+	+ \n
+	+ Try sending a problem\n
+	+ Next time you start.\n
+	+ Mario Kart y.
+   816	= Therefore, the data is not connected.\n
+	+ This method cannot be used.\n
+	+ \n
+	+ You can manage backup data\n
+	+ On the data management screen.\n
+	+ From the Wii system.
+   817	= no System memory space\n
+	+ Wii\n
+	+ Or transfer data to SD card.\n
+	+ Or delete the data in the database.\n
+	+ Message screen.
+   818	= You are free\n
+	+ Today we are planning the success of the WFF. Create\n
+	+ Go back to the main menu..
+   819	= Location changed.\n
+	+ You need to save\n
+	+ Back to file or WiFi\n
+	+ Repeat local situation.
+   81a	= Create a new secure file.
+   81b	/
+   834	/
+   835	= New Mario Basket License\n
+	+ What happened?
+   836	= Generating permission
+   837	= Denial of license
+   838	= Select License
+   839	/
+   83a	/
+   83b	/
+   83c	/
+   83d	/
+   83e	= \z{a02,1000000004}-\z{a02,1000010004}-\z{a02,1000020004}
+   83f	= new license\n
+	+ Can be set from \z{802,120000}.\n
+	+ Is there a problem?
+   840	= Where MI.\n
+	+ Change license\n
+	+ \z{802,120000}. it's fine
+   841	= \z{602,0} s\n
+	+ Under light \z{802,120000}\n
+	+ Both are integrated into Nintendo WFC.
+   842	/
+   848	= View note
+   849	= \z{602,0} check record
+   84a	= can be changed
+   84b	= selected land
+   84c	/
+   84d	/
+   84e	/
+   84f	/
+   850	= \z{602,0} off
+   851	/
+   852	/
+   853	/
+   854	/
+   855	/
+   856	/
+   857	= form
+   858	/
+   866	/
+   867	= Your new license is ready.
+   868	= 2 licenses for \z{602,0}\n
+	+ Off\n
+	+ Is there a problem??
+   869	= \z{602,0} License 869\n
+	+ Done
+   86a	/
+   86b	=  This license has been changed to = MI.
+   86c	/
+   86d	= License revoked
+   86e	= Scroll down to remove your friend \n
+	+ Schedule system?
+   86f	/
+   898	= Change the confusion
+   899	= Choose a place!
+   89a	= Y Console
+   89b	= foreign
+   89c	/
+   89d	= This license ma. Correct for\n
+	+ Removed from MI channel.\n
+	+ Select the second MRI.
+   89e	/
+   89f	/
+   8a0	/
+   8a1	/
+   8a2	/
+   8ca	/
+   8cb	/
+   8cc	/
+   8cd	/
+   8ce	/
+   8cf	/
+   8d0	/
+   8d1	/
+   8d2	= battery 2\n
+	+ Wii remote control\n
+	+ Decrease.
+   8d3	/
+   8d4	/
+   8d5	/
+   8d6	/
+   8fc	/
+   8fd	= 1\n
+	+ \z{800,46}Player
+   8fe	= 2\n
+	+ \z{800,46}Players
+   8ff	= 3\n
+	+ \z{800,46}Players
+   900	= 4\n
+	+ \z{800,46}Players
+   901	= \z{e03,0,f044001ef047001e}
+   902	= \z{e03,0,f05e001ef05f001e}
+   903	/
+   960	/
+   961	= Driver Drive
+   962	= Press E on the control key used by Player 2.
+   963	= Press the E button on the remote control, this is H.
+   964	= Press the E button on the remote control, this is 4.
+   965	/
+   966	/
+   967	/
+   968	/
+   969	/
+   9c4	= good
+   9c5	= version
+   9c6	= Press the A Button on the player controller.
+   9c7	= Press the A Button on the another player's controller.
+   9c8	= Press the A Button on the third player's controller.
+   9c9	= Press the A Button on the fourth player.
+   9ca	= This is the driver to use.
+   9cb	= Court change
+   9cc	= add \z{802,110000} and Wii Remote.
+   9cd	= Try \u{f043} and \u{f030} at the same time Sunin.
+   9ce	= \z{802,110000} for
+   9cf	/
+   9d0	/
+   9d1	/
+   9d2	/
+   9f6	= \u{f103}
+   9f7	= \u{f128}
+   9f8	= \u{f129}
+   9f9	= \u{f12a}
+   9fa	= \u{f12b}
+   9fb	= \c{yellow}OK
+   9fc	= \c{blue2}OK
+   9fd	= \c{red3}OK
+   9fe	= \c{green}OK
+   9ff	/
+   a28	= Mario Kart access to slots.\n
+	+ Is it on the Wii (\z{a02,1000000000} blocks)
+   a29	= implant
+   a2a	= Usaise
+   a2b	/
+   a2c	/
+   a2d	/
+   a2e	/
+   a2f	= Mario card slot
+   a30	= If you carry a Mario cart.\n
+	+ Menu Channel\n
+	+ You will get an channel.\n
+	+ Mario Cart not installed.\n
+	+ Wii game discs
+   a31	= Mario Kart channel \n
+	+ Already installed\n
+	+ This is a Wii tablet.
+   a32	= not enough to find\n
+	+ Adjust Wii n memory space.\n
+	+ \n
+	+ \z{a02,1000000000} Create a free blog\n
+	+ With location to go to the plaza.\n
+	+ Data on SD card or\n
+	+ Delete data\n
+	+ Data Management Manager\n
+	+ Edit file\n
+	+ Do this in the Wii system memory.\n
+	+ It has a storage screen.\n
+	+ And system
+   a33	= no space\n
+	+ Wii network memory Раhh\n
+	+ data to an SD Card or delete data\n
+	+ Delete data or SD card data\n
+	+ Data processing screen \n
+	+ Repair warehouse \n
+	+ Do this on the Wii network memory.
+   a34	= ougheterlikn
+	+ Open channel.\n
+	+ \n
+	+ Send this information. To the number\n
+	+ Delete on SD card or Dele\n
+	+ Data Manager.
+   a35	= Remember Wii system.\n
+	+ Leon Burdina\n
+	+ Wii messaging feature
+   a36	/
+   bb8	= Grand Prix
+   bb9	= time trial
+   bba	= VS.
+   bbb	= WAR
+   bbc	/
+   bbd	/
+   bbe	= 50 cubic meters \n
+	+ \z{800,32}32 pages
+   bbf	= 100cc\n
+	+ \z{800,32}Russian sauce only
+   bc0	= 150cc\n
+	+ \z{800,32}Kawasaki Z800
+   bc1	= Mirror\n
+	+ \z{800,32}Kawasaki Z800
+   bc2	= 50cc\n
+	+ \z{800,32}Kawasaki Z800
+   bc3	= 100cc\n
+	+ \z{800,32}Kawasaki Z800
+   bc4	= \z{802,110000}change
+   bc5	/
+   bea	= 1 game-place 4!
+   beb	= Start iBeb = get data right away.
+   bec	= Return = illegal competition.
+   bed	= Bed = aligned with the bed.
+   bee	= warring party.
+   bef	= In some areas of war.
+   bf0	/
+   bf1	/
+   bf2	/
+   bf3	/
+   bf4	= great gift for beginners (1 card).
+   bf5	= appropriate logo for normal bicycles (bicycles only)
+   bf6	= high wages for workers (Katamapau).
+   bf7	= The highest prize (card and motor) is sent left and right.
+   bf8	= Great gift for beginners (tickets and bikes).
+   bf9	= Best choice for regular players (paper and motor).
+   bfa	/
+   c1c	= time
+   c1d	= This training has no history.
+   c1e	/
+   c1f	= see command
+   c20	/
+   c80	= War
+   c81	= equal to the screen
+   c82	= coin
+   c83	/
+   c84	/
+   cb2	= edadajo
+   cb3	= automatic command
+   cb4	/
+   cb5	/
+   ce9	= edadajo
+   cea	= automatic 
+   ceb	= command
+   cec	= help
+   ced	= ■tafiotometi\n
+	+ If you make a change, the change will be made automatically. TAKE INTO ACCOUNT\n
+	+ 2. Complex, without delay. TAKE INTO ACCOUNT\n
+	+ (\z{802,170000}I can not pull 2 ​​small engines from) Nothing.\n
+	+ \n
+	+ definition\n
+	+ 1 Jump up \z{802,170000}, dance and start walking. TAKE INTO ACCOUNT\n
+	+ 2. Continuous acceleration (small turbo).
+   cee	= Describe the current state.
+   cef	= speed
+   cf0	= weight
+   cf1	= strong wind
+   cf2	= action
+   cf3	= idada
+   cf4	= symbol
+   cf5	= small turbocharger
+   cf6	/
+   d16	= automatic (or minimum turbo).
+   d17	= Use the button (on smaller machines).
+   d18	/
+   d20	= \z{802,110000} container: \z{802,110001} value: \z{802,110002}
+   d21	= trial period
+   d22	= \z{802,110000}
+   d23	= \z{802,110000} B.
+   d24	= \u{f069} same as the screen
+   d25	= \u{f068} coin
+   d26	= \z{802,110000} VS team competition.
+   d2a	= \u{f06a}
+   d2b	= \u{f06b}
+   d2c	= \u{f06c}
+   d2d	= \u{f063}
+   d2e	= \u{f062}
+   d2f	= \u{f061}
+   d30	= \u{f078}
+   d31	= \u{f079}
+   d32	= \u{f07a}
+   d33	= \u{f07b}
+   d34	= \u{f07c}
+   d35	= F
+   d36	= 
+   d37	/
+   d38	/
+   d48	= rule
+   d49	= Engine board
+   d4a	= letter
+   d4b	= kalapona
+   d4c	= all right
+   d4d	= dad
+   d4e	= Seumann
+   d4f	= width
+   d50	= No.
+   d51	= Opposite.
+   d52	= papa
+   d53	= 50 copper
+   d54	= 100 cubic meters
+   d55	= 150 cubes
+   d56	= Ana
+   d57	= speed 50 cubic meters. An eye for beginners.
+   d58	= 100 cc for normal runner.
+   d59	= 150 cm distance for activities.
+   d5a	= right / left turn, speed 150 cc.
+   d5c	= service unit
+   d5d	= Easy
+   d5e	= normal
+   d5f	= hard
+   d60	= Not available
+   d61	= most destructive agent.
+   d62	= middle service unit.
+   d63	= better performance.
+   d64	= no service unit.
+   d66	= CPU support
+   d67	= map
+   d68	= circle
+   d69	= apau
+   d6a	= Only the CPU player moves with the card.
+   d6b	= the CPU player only runs after running.
+   d6c	= the CPU player loads the card and the disk.
+   d6d	= The CPU player only clicks the cards.
+   d6e	= the CPU player only runs after running.
+   d6f	= CPU player card and circuits.
+   d70	= Classes
+   d71	= Koho
+   d72	= straight
+   d73	= OK
+   d74	= Select a route for each race.
+   d75	= Select options tables.
+   d76	= Play cups in sequence.
+   d77	= Select the view mode for each battle.
+   d78	= Select a horizontal level.
+   d79	= Play last events.
+   d7a	= the number of penalties
+   d7b	= competition: \z{a02,1000000001}
+   d7c	= winning number
+   d84	= Win: \z{a02,1000000001}
+   d85	= Chemical attachment
+   d86	= Chemical attachment
+   d87	= equal
+   d88	/
+   d89	= hours. Number of shots
+   d8a	= measure the number of slides.
+   d8b	= Divide into two groups and compete for more points.
+   d8c	= high competition.
+   d8d	= field
+   d8e	= Are you a racist?
+   d8f	= Are you at the end of the war?
+   d90	= race according to these rules.
+   d91	= Write this line.
+   d92	= Translator of discriminatory rules.
+   d93	= War law promulgated.
+   d94	/
+   d98	= Results
+   d99	= palikana
+   d9a	= humility
+   d9b	= black
+   d9c	= Not available
+   d9d	= actual value.
+   d9e	= can see the force.
+   d9f	= covert control.
+   da0	= Nothing found.
+   da1	/
+   dac	= group order
+   dad	= blue\n
+	+ Also
+   dae	= red\n
+	+ Also
+   daf	= Show as group
+   db0	= Play with this group.
+   db1	= product name
+   db2	= \c{blue1}fund\n
+	+ Also
+   db3	= \c{red2}red\n
+	+ Also
+   db4	= All people are grouped.\n
+	+ \n
+	+ Select again.
+   db5	/
+   dde	= Strength the race
+   ddf	= the beginning of the war
+   de0	= start of the game
+   de1	/
+   fa0	= = worldwide
+   fa1	= zone
+   fa2	= du
+   fa3	= chicken
+   fa4	= Nintendo VFC system
+   fa5	/
+   fa6	/
+   fa7	/
+   fa8	= I have no friends\n
+	+ You are registered with your friends \n
+	+ Play with them
+   fa9	/
+   faa	= Nintendo connected to WFC ...
+   fab	= Want to get rid of Nintendo WFC?
+   fac	= yes
+   fad	= passed
+   fae	/
+   faf	/
+   fb0	= You cannot use Miin.\n
+	+ Nintendo WFC \n
+	+ \n
+	+ Please log in again later\n
+	+ Replace the Mii
+   fb1	/
+   fb2	= connect \n
+	+ From other toys
+   fb3	= Do you leave the room?
+   fb4	= half of coal?
+   fb5	= connect\n
+	+ From the room creator\n
+	+ return\n
+	+ List of current relatives
+   fb6	= I can't connect\n
+	+ this is my friend\n
+	+ \n
+	+ Please stop\n
+	+ u
+   fb7	/
+   fb8	= connect and receive
+   fb9	/
+  1004	= Folova
+  1005	= Create a class
+  1006	= Meeting friends ...
+  1007	/
+  1008	/
+  1009	/
+  100a	= I'm looking for a partner ...
+  100b	= Your enemy is angry!
+  100c	= waiting for your friend ...
+  100d	= death
+  100e	= Let's play against 100
+  100f	= Come and play the game with 100 = VS!
+  1010	= Let's play with balloons!
+  1011	= Let's play with toys!
+  1012	/
+  1036	= Registration
+  1037	= We are not friends \z{802,120000}!
+  1038	= did not match
+  1039	/
+  103a	= \z{802,120000}, they are friends!
+  103b	/
+  1068	= Difficulty
+  1069	= \z{a02,1000000002}/\z{a02,1000010002}
+  106a	= \z{a02,1000000000}\z{800,46}VR
+  106b	= \z{a02,1000000000}\z{800,46}BR
+  106c	= wait a minute.
+  106d	= Earth
+  106e	= World War II
+  106f	= local VS
+  1070	= War in the region
+  10cc	= select path
+  10cd	= only half a minute
+  10ce	= Game description order
+  10cf	/
+  10d0	/
+  10d1	= also.
+  10d2	= also.
+  10d3	/
+  10d4	= war
+  10d5	= war
+  10d6	= Play with the world
+  10d7	= ready to play with the character
+  10d8	= Play with your friends
+  10d9	= Soul that travels around the world
+  10da	= 11 as a match
+  10db	= Divide the battle into two parts.
+  10dc	= Free up a room and play with your friends.
+  10dd	= see what your friends are doing
+  10de	= enter a new friend code
+  10df	/
+  10e0	= no 100 square distance
+  10e1	= Ara 150 cc!
+  10e2	= Another Windows game is running!
+  10e3	= \u{f069} balloon balloon
+  10e4	= \u{f068} Monnie.
+  10e5	= no 100c distance
+  10e6	= up to 150 cc!
+  10e7	= Fast-Windows is fast!
+  10e8	= 100cu without distance
+  10e9	= 150cc era!
+  10ea	= Run another window game!
+  10eb	/
+  10ec	/
+  10ed	/
+  10ee	/
+  10fe	= Do you want to vote for another article?
+  10ff	= putty
+  1100	= TZ
+  1101	= TZ
+  1102	= Ask a question
+  1103	= Evidence of the item
+  1104	= Have you seen the floor?
+  1105	= Game...
+  1106	= Ready to fight...
+  1107	/
+  1108	= Show everyone's language...
+  1109	= 
+  110a	= unknown series!
+  110b	= Choose location!
+  110c	/
+  1112	= Send message to everyone
+  1113	= Select file
+  1114	= New immigrants stopped
+  1115	= Choose what to play
+  1116	= Invite others to join your friends
+  1117	= This story is only for friends who want to be friends.
+  1118	/
+  1126	= Please enter your friend's phone number.
+  1127	= Have you signed this friend code?
+  1128	= Play with your friends
+  1129	= The player has been removed from the contact list.
+  112a	/
+  112b	/
+  112c	/
+  112d	/
+  1193	= I am here!
+
+  11f4	/
+  11f5	/
+  11f6	/
+  11f7	/
+  11f8	= Invalid connection number \n
+	+ All Conda\n
+	+ Open the main menu.\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  11f9	= No connection to\n
+	+ internet. Remember to click\n
+	+ Wiin controller platform option\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  11fa	= Nintendo Wi-Fi connection number.\n
+	+ Heavy traffic\n
+	+ Small size or volume.\n
+	+ Please try again later. I will not try again. If you need help\n
+	+ Go to support.nsupport.com.\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  11fb	= not connected to Nintendo\n
+	+ Indicates a Wi-Fi connection\n
+	+ Program speed\n
+	+ Or visit support.nsupport.com.\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  11fc	= Nintendo Wi-Fi Service Number\n
+	+ This software is disabled.\n
+	+ For more information, see\n
+	+ Nintendo Wi-Fi standard\n
+	+ Appropriate insurance program.\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  11fd	= Nintendo failed\n
+	+ Indicates a Wi-Fi connection\n
+	+ Program speed\n
+	+ Or visit support.nsupport.com.\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  11fe	= Nintendo Wi-Fi connection number\n
+	+ Heavy traffic\n
+	+ Sound or task completed.\n
+	+ Please try again later. I will not try again. If you need help\n
+	+ Go to support.nsupport.com.\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  11ff	= table\n
+	+ Insert Wi-Fi memory.\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1200	= Y encoding\n
+	+ No news\n
+	+ About Wii users\n
+	+ Additional information\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1201	= contact is invalid.\n
+	+ Please try again. If you need help\n
+	+ Go to support.nsupport.com. \n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1202	= Error printing oran\n
+	+ Please try again.\n
+	+ taic.nupdate.com. ..\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1203	= The Oran contact is invalid\n
+	+ Please try again.\n
+	+ taic.nupdate.com. ..\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1204	= The Oran contact is invalid\n
+	+ Please try again.\n
+	+ taic.nupdate.com. ..\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1205	= The Oran contact is invalid\n
+	+ Please try again.\n
+	+ taic.nupdate.com. ..\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1206	= Invalid contact Oran\n
+	+ Please try again.\n
+	+ taic.nupdate.com. ..\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1207	= Invalid contact Oran\n
+	+ Please try again.\n
+	+ taic.nupdate.com. ..\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1208	= Doctor current.\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1209	= Dr. Nestream\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  120a	= current network connection.\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  120b	= Network connection is disabled.\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  120c	= Failed to connect to network.\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  120d	= Network connection is not working.\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  120e	= Network connection is not active.\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  120f	= Network connection is not working.\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1210	= Could not connect to network.\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1211	= Could not connect to network\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1212	= Could not connect to network\n
+	+ Check the number of internet options.\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1213	= Could not connect to network\n
+	+ Network Number Selection Guide\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1214	= Could not connect to network.\n
+	+ Network Number Selection Guide\n
+	+ Yn icon\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1215	= Error merged.\n
+	+ Moved by\n
+	+ Wi-Fi connection today. General Chat Chat Lounge\n
+	+ Look for help:.\n
+	+ Support. nintendo.com. General Chat Chat Lounge N\n
+	+ \n
+	+ SPEED DIAL: \z{a02,1000000005}
+  1216	/
+  1388	= Mario carried a bag
+  1389	= Find friends
+  138a	= benefit
+  138b	= competition
+  138c	= competition
+  138d	/
+  138e	= Register your friend
+  138f	/
+  1390	= Wii Kos
+  1391	= Horses
+  1392	= Competition
+  1393	= The second letter
+  1394	/
+  1395	/
+  1396	= First job
+  1397	= Race successive ghosts\n
+	+ from around the world!\n
+	+ \n
+	+ Hone your skills by racing\n
+	+ lots of ghosts!
+  1398	= I think so
+  1399	= The ghost race continued\n
+	+ From all over the world!\n
+	+ \n
+	+ Improve your skills. FOR\n
+	+ A lot of strong alcohol!\n
+	+ \n
+	+ \z{a02,1000000000} \z{c04,13a213a3} \z{a02,1000010000} \z{c04,113a413a5}
+  139a	= The ghost race continued\n
+	+ From all over the world!\n
+	+ \n
+	+ Improve your skills. FOR\n
+	+ A lot of strong alcohol!\n
+	+ \n
+	+ \z{a02,1000000000} \z{c04,13a213a3} \z{a02,1000010000} \z{c04,113a413a5}
+  139b	= The ghost race continued\n
+	+ From all over the world!\n
+	+ \n
+	+ Improve your skills. FOR\n
+	+ A lot of strong alcohol!\n
+	+ \n
+	+ \z{a02,1000000000} \z{c04,13a213a3} \z{a02,1000010000} \z{c04,113a413a5}
+  139c	= The ghost race continued\n
+	+ From all over the world!\n
+	+ \n
+	+ Improve your skills. FOR\n
+	+ A lot of strong alcohol!\n
+	+ \n
+	+ \z{a02,1000000000} \z{c04,13a213a3} \z{a02,1000010000} \z{c04,113a413a5}
+  139d	= The ghost race continued\n
+	+ From all over the world!\n
+	+ \n
+	+ Improve your skills. FOR\n
+	+ A lot of strong alcohol!\n
+	+ \n
+	+ \z{a02,1000000000} \z{c04,13a213a3} \z{a02,1000010000} \z{c04,113a413a5}
+  139e	= The ghost race continued\n
+	+ From all over the world!\n
+	+ \n
+	+ Improve your skills. FOR\n
+	+ A lot of strong alcohol!\n
+	+ \n
+	+ \z{a02,1000000000} \z{c04,13a213a3} \z{a02,1000010000} \z{c04,113a413a5}
+  139f	= The ghost race continued\n
+	+ From all over the world!\n
+	+ \n
+	+ Improve your skills. FOR\n
+	+ A lot of strong alcohol!\n
+	+ \n
+	+ \z{a02,1000000000} \z{c04,13a213a3} \z{a02,1000010000} \z{c04,113a413a5}
+  13a0	= The ghost race continued\n
+	+ From all over the world!\n
+	+ \n
+	+ Improve your skills. FOR\n
+	+ A lot of strong alcohol!\n
+	+ \n
+	+ \z{a02,1000000000} \z{c04,13a213a3} \z{a02,1000010000} \z{c04,113a413a5}
+  13a1	= \z{a02,1000000000} \z{c04,13a213a3}
+  13a2	= To win
+  13a3	= Victory
+  13a4	= Death
+  13a5	= Death
+  13a6	/
+  13ba	= Friends
+  13bb	= Ghosts
+  13bc	= Test time
+  13bd	/
+  13be	= Sports games
+  13bf	/
+  13c4	= Check out your friends as they play now.
+  13c5	= Compare your prices with others.
+  13c6	= Check and delete ghosts.
+  13c7	= Soro Mario Card Y Championship.
+  13c8	= Check out Ghost Ghost and Ghost. 40 040
+  13c9	/
+  13ca	= Send and receive inspiration from here!
+  13cb	/
+  13cc	= These are Mario Kart Y Movies!
+  13cd	/
+  13ce	/
+  13cf	/
+  13d0	/
+  13d1	/
+  13d2	/
+  13d3	/
+  13d8	/
+  13d9	/
+  13da	/
+  13db	/
+  13dc	/
+  13dd	/
+  13ec	= Enter the vein code.
+  13ed	= Remember this friend's code?\n
+	+ \n
+	+ \z{a02,1000000004}-\z{a02,1000010004}-\z{a02,1000020004}
+  13ee	= Incorrect friend code H.\n
+	+ \n
+	+ \z{a02,1000000004}-\z{a02,1000010004}-\z{a02,1000020004}
+  13ef	= friend found low code online\n
+	+ Your author. \n
+	+ \n
+	+ \z{a02,1000000004}-\z{a02,1000010004}-\z{a02,1000020004}
+  13f0	= Make sure the friend is registered\n
+	+ Friendly code \z{602,0}.\n
+	+ \n
+	+ \z{a02,1000000004}-\z{a02,1000010004}-\z{a02,1000020004}\n
+	+ \n
+	+ Today’s exercise is Stornoway Air Together\n
+	+ Friend code, you can play together.
+  13f1	= \z{a02,1000000001}
+  13f2	= -
+  13f3	/
+  13f6	= This is friendly code\n
+	+ Pre-registration.
+  13f7	= Friends can list items\n
+	+ Eat 30 friends...\n
+	+ Sign up with friends\n
+	+ complete.
+  13f8	= You have no friend code \z{602,0}.
+  13f9	= friend code here \z{802,130000}.\n
+	+ \n
+	+ The sport took him to Stornoway.
+  13fb	/
+  141e	/
+  141f	/
+  1420	/
+  1421	/
+  1422	/
+  1423	/
+  1424	/
+  1425	/
+  1450	= budget
+  1451	= found
+  1452	= Cannot be filled.
+  1453	= Rocco is no longer a friend.
+  1454	/
+  1455	/
+  1456	= wins
+  1457	= Effect
+  1458	/
+  1459	= War of 1459
+  145a	= So send to a friend?
+  145b	= This pair has been deleted from the US.
+  145c	= So send to a friend ...
+  145d	= So send to a friend
+  145e	= US East
+  145f	= Delete
+  1460	= \z{c04,14561457}
+  1461	= all of SAS\n
+	+ Proper SEO code\n
+	+ Get rid of the US. Is it safe?
+  1462	/
+  14b4	= Connect to Nintendo WFC ...
+  14b5	= Not available on Nintendo WFC!
+  14b6	/
+  14b7	/
+  14b8	= I'm in a crowd!
+  14b9	= I'm friends now!
+  14ba	= I'm friends now!
+  14bb	= I play against races all over the world!
+  14bc	= I can play all over the world!
+  14bd	= I played Land VS Racing!
+  14be	= I'm in a wheelchair!
+  14bf	= I want to match (Game 1)
+  14c0	= I want to match (Game 2)
+  14c1	= I want to match (match 3)
+  14c2	= I want to match (divided by 4)
+  14c3	= I work hard (End 1)
+  14c4	= I work hard (End 2)
+  14c5	= I work hard (end of 3)
+  14c6	= I use a tiebreaker
+  14c7	= I play a friend (Game 1)
+  14c8	= I play as a friend (Match 2)
+  14c9	= I play as a friend (Match 3)
+  14ca	= I play as a friend (Game 4)
+  14cb	= I play like a friend (1 win)
+  14cc	= I play like a friend (Winner 2)
+  14cd	= I play like a friend (Winner 3)
+  14ce	= I played a friend (tie breaker).
+  14cf	/
+  14d0	/
+  14e6	= I am with my boyfriend
+  14e7	/
+  1518	/
+  1519	/
+  151a	= Holman Race\n
+	+ True or not?
+  151b	= send test ...
+  151c	= Holman Race\n
+	+ Send + \z{802,120000}!\n
+	+ \n
+	+ \z{a02,1000000000}/5
+  151d	= send strength to challenges.\n
+	+ Rough  \z{802,120000}!\n
+	+ \n
+	+ 5/5\n
+	+ \n
+	+ You can't use new monsters.\n
+	+ Next time\n
+	+ You are the striker for Mario Kurt Way.
+  151e	= Because you do not know the devil.\n
+	+ You cannot remove this barrier.
+  151f	/
+  157c	= Reading, remembering ...
+  157d	= You Accept a Friend's Challenge!
+  157e	= You downloaded all the monster names, \n
+	+ So you can't like it\n
+	+ Competitive price.\n
+	+ \n
+	+ Please help the spirit
+  157f	= You did not take this course. \n
+	+ \n
+	+ Grand Prix Cup\n
+	+ Publish more PA collections
+  1580	= Misunderstanding\n
+	+ The story of the sudden groom
+  1581	/
+  15e0	= Japan
+  15e1	= anguilla
+  15e8	= Antigua and Barbuda
+  15e9	= argentina
+  15ea	= Observe
+  15eb	= bahamas
+  15ec	= Barbados
+  15ed	= Belize
+  15ee	= bolivia
+  15ef	= force
+  15f0	= British Bride
+  15f1	= canada
+  15f2	= Cayman Islands
+  15f3	= argentina
+  15f4	= Colombia
+  15f5	= Costa Rica:
+  15f6	= first
+  15f7	= Dominican Republic
+  15f8	= Ecuador
+  15f9	= El Salvador
+  15fa	= Granada
+  15fc	= Mexico
+  15fe	= Hmong Guiana
+  15ff	= republic
+  1600	= Hmong Honduras
+  1601	= Jamaica
+  1602	= Mexico
+  1604	= montserrat
+  1605	= Netherlands Antilles
+  1606	= Nicaragua
+  1607	= Costa Rica:
+  1608	= Paraguay
+  1609	= peru
+  160a	= Kitts and Nevis
+  160b	= St. Lucia
+  160c	= Vincent and the Grenadines
+  160d	= suriname
+  160e	= Trinidad and Tobago
+  160f	= To him, and to him & Caicos Island
+  1610	= Meskas
+  1611	= CHEMICALS
+  1612	= Wallis US
+  1613	= Africa
+  1614	= people of Australia
+  1621	= Austria \040
+  1622	= religion
+  1623	= Denmark
+  162a	= Finland
+  162c	= France
+  162d	= Germany
+  162e	= Elijahhu
+  162f	= Ireland
+  1632	= The. tally
+  1633	= Luxembourg
+  1638	= The Netherlands
+  163e	= New Zealand
+  163f	= has
+  1640	= portugal
+  1642	= Spain
+  1649	= sweden
+  164b	= Switzerland
+  164c	= United Kingdom
+  164e	= 
+  1660	= 
+  1668	= South Korea
+  1670	= 
+  1671	= 
+  1680	= 
+  16df	/
+  1770	= Choose a format.
+  1771	= friends love
+  1772	= location analysis
+  1773	= world ranking
+  1774	= more
+  1775	= \z{802,110000} 10 best friends
+  1776	= \z{802,110000} 10 best counties
+  1777	= \z{802,110000} 10 best in the world
+  1778	= 10
+  1779	= 10 better
+  177a	= game time
+  177b	= Start this song
+  177c	= see resume
+  177d	= Meez Vaz
+  177e	= Send the spirits to the center
+  177f	= The operator of this service
+  1780	= Weather research only
+  1781	= New
+  1782	= cara
+  1783	= 10 better
+  1784	= Earth
+  1785	= 10 better
+  1786	= World
+  1787	= 10 first
+  1788	/
+  17a2	= am
+  17a3	= \z{a02,1000000001}:\z{a02,1000010002}
+  17a4	= \z{a02,1000000002}:\z{a02,1000010002}.\z{a02,1000020003}
+  17a5	= --:--.---
+  17a6	= Call
+  17a7	= World Cup
+  17a8	= recruitment
+  17a9	= cara
+  17aa	= sector
+  17ab	= World
+  17ac	= \z{803,100000}
+  17ad	= family spirit
+  17ae	= other spirit
+  17af	= special spirit
+  17b0	= Ghost Stories
+  17b1	/
+  17d4	= \z{802,110000}\n
+	+ \n
+	+ There are no animals.
+  17d5	= \z{802,130000}\n
+	+ \n
+	+ There are no animals.
+  17d6	= No script file.
+  17d7	/
+  17de	= throw the beast ...
+  17df	= download list.\n
+	+ Everything so you can't change\n
+	+ Bonuses plus bonuses. .\n
+	+ \n
+	+ Cancellation.
+  17e0	= error \n
+	+ When you get\n
+	+ Wednesday.\n
+	+ \n
+	+ Simple Error: \z{a02,1000000005}
+  17e1	= The devil was killed.
+  17e2	= Loading the top 10 ....
+  17e3	= An error occurred\n
+	+ While  loading\n
+	+ in the first 10.\n
+	+ \n
+	+ Simple Error: \z{a02,1000000005}
+  17e4	= There is no Top 10.
+  17e5	= 
+  17e8	= Contact\n
+	+ Nintendo WFC agreement?
+  17e9	= matamaitic
+  17ea	= unit integration\n
+	+ New dog is gone
+  17eb	= New dog is gone\n
+	+ Available. We agreed;
+  17ec	/
+  1806	= Ghost Trail
+  1807	= The playback history file displays.
+  1808	= Are you sure you want to compete?
+  1809	= LVV
+  180a	= the closed
+  180b	/
+  1839	= Sunday
+  183a	= 2
+  183b	= 3
+  183c	= 4
+  183d	= 5
+  183e	= 6
+  183f	= 7
+  1840	= 8
+  1841	= 9
+  1842	= 10
+  1843	= 11
+  1844	= 12
+  1845	/
+  186a	= Run the time test
+  186b	= cat  \z{802,120000}.
+  186c	= Regional Phantom Champion
+  186d	= Phantom World Champion
+  186e	= The wind gives the player the aces who are a little faster than you.
+  186f	= See the top 10 list of friends
+  1870	= 10 See regional culture
+  1871	= See first in the world
+  1872	= Mario Kart Way imagines the race
+  1873	= This is an entry \z{802,120000}.
+  1874	= Regional Camp Archives
+  1875	= World Champion
+  1876	/
+  189c	= Submit Ghost Challenge
+  189d	= \z{802,110000}\n
+	+ \n
+	+ There is no entry for \z{802,120000}.
+  189e	= \z{802,110000}\n
+	+ \n
+	+ List \z{802,120000}\z{a02,1000000002}:\z{a02,1000010002}.
+	+ \z{a02,1000020003}.
+  189f	= \z{802,110000}\n
+	+ \n
+	+ There is no entry for \z{802,120000}.
+  18a0	= \z{802,110000}\n
+	+ \n
+	+ List \z{802,120000}\z{a02,1000000002}:\z{a02,1000010002}.
+	+ \z{a02,1000020003}.
+  18a1	= Spiritual information sent ...
+  18a2	/
+  18a6	= WiiConnect24 is temporarily unavailable.\n
+	+ Please try again later.\n
+	+ \n
+	+ Error code: \z{a02,1000000006}
+  18a7	= Unable to connect to the Internet\n
+	+ Then according to WiiConnect24\n
+	+ Not applicable Check online \n
+	+ Settings and connections Probably thatn
+	+  See the Wii User Guide for details\n
+	+ \n
+	+ Error code: \z{a02,1000000006}
+  18a8	= There is a problem with the Wii system\n
+	+ memory, i.e. WiiConnect24 does not work. \n
+	+ \n
+	+ Error code: \z{a02,1000000006}
+  18a9	= Your stuff\n
+	+ Updated to run\n
+	+ Use WiiConnect24\n
+	+ In Wii Activation Wizard\n
+	+ More information\n
+	+ \n
+	+ Error code: \z{a02,1000000006}
+  18aa	= There is an error &\n
+	+ WiiConnect24 is not working \n
+	+ Reset et and try again\n
+	+ \n
+	+ Error code: \z{a02,1000000006}
+  18ab	= No WiiConnect24 settings \n
+	+ Do not check settings\n
+	+ Wii options probably \n
+	+ Learn more about Wii user guides\n
+	+ Information.\n
+	+ \n
+	+ Error code: \z{a02,1000000006}
+  18ac	= There is a problem\n
+	+ s Wii\n
+	+ Memory, Core WiiConnect24\n
+	+ Not applicable \n
+	+ \n
+	+ Error code: \z{a02,1000000006}
+  18ad	= Using network functions\n
+	+ Restrictions \n
+	+ \n
+	+ Check settings \n
+	+ For parent control under\n
+	+ Wii options.
+  18ae	= Unable to connect\n
+	+ Who is the Internet\n
+	+ Internet settings\n
+	+ Internet settings.\n
+	+ \n
+	+ Error Code: 50200
+  18af	= Mario Cart Channel\n
+	+ Mario Cart Channel\n
+	+ Download information, for example:\n
+	+ The author's problem\n
+	+ Education for players\n
+	+ World wide \n
+	+ Prosp The demon of hope\n
+	+ The competition has been decided
+  18b0	= WiiConnect24 can be configured\n
+	+ Settings on Wii Options\n
+	+ \n
+	+ See Wii B features features\n
+	+ Information for more information
+  18b1	= Unable to connect to WiiConnect24\n
+	+ Because there is an error.\n
+	+ \n
+	+ Reset the Wii and try again\n
+	+ \n
+	+ Error code: \z{a02,1000000006}
+  18b2	= 
+  18f6	= No!
+  18f7	= 
+  1900	= A friend challenges you
+  1901	= has special ghost data
+  1902	= The tournament in progress
+  1903	= Latest scores
+  1904	= The devil is killed immediately
+  1905	= New friend login!
+  1906	= Installation of the Mario Cart Channel
+  1907	= Will the message Y come to Mario Kartas?
+  1908	= Define your area?
+  1909	= Invite Wii friends?
+  190a	= Does Mario Cart receive channel updates?
+  190b	/
+  190c	/
+  1964	= See demon distribution list
+  1965	= Go to your time tests
+  1966	= Go to the tournament
+  1967	= Go to your time tests
+  1968	= Go to the battle of the demons
+  1969	= Go to your time tests
+  196a	= Go to General Settings
+  196b	= Go to General Settings.
+  196c	= Go to General Settings.
+  196d	= Invite people to register as friends
+  196e	= Ranking and tournament data updated
+  196f	/
+  1970	/
+  1996	= You can not watch the tournament\n
+	+ Score now
+  1997	= Receiving tournament scores ...
+  1998	= An error occurred while downloading\n
+	+ Tournament Scores. \n
+	+ \n
+	+ Error Code: \z{a02,1000000005}
+  1999	= Tournament scores available\n
+	+ Tournament start date \n
+	+ \n
+	+ Wait
+  199a	= first half
+  199b	= second half
+  199c	= you can not see\n
+	+ Score \n
+	+ The tournament is still here.\n
+	+ \n
+	+ Try again tomorrow
+  19c8	= Mario Kart y World\n
+	+ The tournament starts and.\n
+	+ Available for a limited time only.\n
+	+ \n
+	+ Connect your Wii\n
+	+ Internet, turn on\n
+	+ Wait for WiiConnect24 and \n
+	+ The tournament starts
+  19c9	= Previous Tournament\n
+	+ His rating has expired\n
+	+ Posted!
+  19ca	= \z{802,200000}
+  19cb	= \z{802,200000}
+  19cc	= start
+  19cd	= shipping tournament record
+  19ce	= Send tournament record ...
+  19cf	= \z{802,200000}\n
+	+ \z{a02,1000000002}:\z{a02,1000010002}.\z{a02,1000020003}
+  19d0	= Tournament Registration\n
+	+ Sent
+  19d1	= send Send failed\n
+	+ Tournament record.\n
+	+ \n
+	+ Error code: \z{a02,1000000005}
+  19d2	= This tournament will be\n
+	+ \z{a02,1000010000}/\z{a02,1000020000}/\z{a02,1000000000} until completed.
+  19d3	/
+  1a2c	= Invite Wii friends
+  1a2d	= You can send an invitation\n
+	+ Play Mario Kart Y for a\n
+	+ Other Wii message boards.\n
+	+ \z{602,0}.\n
+	+ This invitation will be yours \n
+	+ Friend password to find friends\n
+	+ Register immediately
+  1a2e	= Select address
+  1a2f	= Invitation sent\n
+	+ Wii message from \z{802,200000}\n
+	+ The table is correct
+  1a30	= Sending your invitation ...
+  1a31	= Your invitation was\n
+	+ Sent  \z{802,200000}\n
+	+ Wii message board!\n
+	+ \n
+	+ Once \z{802,200000} response, \n
+	+ You can be friends
+  1a32	= When an error occurs\n
+	+ Send invitations \n
+	+ \n
+	+ Error code: \z{a02,1000000006}
+  1a33	= \z{802,200000}
+  1a34	= Enter the tournament\n
+	+ He sent you\n
+	+ Go to the tournament \n
+	+ Score now.\n
+  1a35	/
+  1a36	= Register friends
+  1a37	= You have received an invitation\n
+	+ From \z{802,200000}.\n
+	+ You can register this person\n
+	+ Become a friend in a hotel immediately ‌\n
+	+ If yes, your friend password\n
+	+ will be sent to \z{802,200000}.
+  1a38	= \z{802,200000} will be registered\n
+	+ as a friend. \n
+	+ \n
+	+ OK?
+  1a39	= Register a friend ...
+  1a3a	= \z{802,200000} \n
+	+ Register as a friend
+  1a3b	= An error occurred\n
+	+ Arrival \n
+	+ This friend.\n
+	+ \n
+	+ Error code: \z{a02,1000000006}
+  1a3c	= You do not have a friend password,\n
+	+ \z{602,0}.\n
+	+ \n
+	+ Your friend password is 12 digits\n
+	+ Number for connection.\n
+	+ On the Nintendo WFC.\n
+	+ \n
+	+ See Mario Kart Y\n
+	+ More guide information.\040
+  1a3d	= You created\n
+	+ Invitation from friends, but\n
+	+ You already have 30\n
+	+ Friends registered,.\n
+	+ \z{602,0}.\n
+	+ \n
+	+ You can not register \n
+	+ And there are no friends
+  1a3e	= You received an invitation from a friend,.\n
+	+ However, the person who invited you\n
+	+ You are not registered\n
+	+ Wii message board address book.\n
+	+ \n
+	+ Start the Mario Cart Channel\n
+	+ Repeat and re-register\n
+	+ Personal friends password
+  1a3f	= A friend invited you\n
+	+ \n
+	+ However, this person already\n
+	+ Register as a friend
+  1a40	= 
+  1a90	= Get tournament rankings
+  1a91	= Tournament Ranking Download ...
+  1a92	= Get Tournament Score
+  1a93	= On shipment\n
+	+ number. \n
+	+ \n
+	+ Error: \z{a02,1000000005}
+  1a94	/
+  1a9b	/
+  1a9c	/
+  1a9d	/
+  1af4	= Get  channel update
+  1af5	= recently downloaded\n
+	+ Mario Kart Channel\n
+	+ Update!
+  1af6	= Astar  
+  1af7	= Location network\n
+	+ I got the update.
+  1af8	= Error \n
+	+ Download the new file.\n
+	+ \n
+	+ Error: \z{a02,1000000006}
+  1af9	/
+  1b58	= Astar 
+  1b59	= Location network
+  1b5a	= Astar 
+  1b5b	= Astar 
+  1b5c	/
+  1bbc	= Nintendo GameCube as 
+  1bbd	= Do you want to use it?\n
+	+ Delete smart device\n
+	+ Owe GameCube\n
+	+ Do you like it?
+  1bbe	= 
+  1bbf	= no
+  1bc0	= Nintendo GameCube\n
+	+ Ctrl\n
+	+ Furniture\n
+	+ Active.
+  1bc1	= Nintendo GameCube\n
+	+ Ctrl \n
+	+ Furniture \n
+	+ Fight.
+  1bc2	/
+  1c20	= Area
+  1c21	= Go and set Wii record \n
+	+ Set location\n
+	+ Thu
+  1c22	/
+  1c23	/
+  1c24	/
+  1c52	= domain
+  1c53	= For Mario Kart Wii, you can:\n
+	+ Get your address and details\n
+	+ But is gone\n
+	+ Nintendo WFC stars.\n
+	+ Your idea of ​​time spent.\n
+	+ \n
+	+ This information is\n
+	+ Nintendo WFC Competition.
+  1c54	= when the logo is displayed\n
+	+ Clear + area\n
+	+ Are you playing Mario Kart Wii?
+  1c55	= Vegetables 
+  1c56	= Tha 
+  1c57	= Your Website Information\n
+	+ Edit \n
+	+ 'Collaborative text.
+  1c58	= for site profile\n
+	+ Edit \n
+	+ Not a certificate
+  1c59	/
+  1c84	= Message sent
+  1c85	= Choose whether to accept the message\n
+	+ Wii to WiiConnect24\n
+	+ Letter from Maria\n
+	+ Channel map. Content\n
+	+ Details \n
+	+ Use Marie Card to change to see the type of watch.\n
+	+ Unique monster.\n
+	+ Keep receiving notifications\n
+	+ Register to participate in such games.
+  1c86	= Chi \n
+	+ Data from\n
+	+ Mario Kart Channel?
+  1c87	= So,
+  1c88	= No
+  1c89	= He created Mario\n
+	+ Chart + content change\n
+	+ Join a phrase
+  1c8a	= will not be accepted\n
+	+ Message from Mario\n
+	+ Channel map. Are you good at this?
+  1c8b	= 
+  1cb6	= Now it reaches\n
+	+ Mario Kart channel description\n
+	+ Wii dashboard.
+  1cb7	= Do you want to accept this message?
+  1cb8	= No news Mario Kart makes money.
+  1cb9	= Non-compulsory news channel.
+  1cba	= receive messages.
+  1cbb	= Do you want to select\n
+	+ All Mario Kart\n
+	+ Content?
+  1cbc	= Looking for\n
+	+ Remove from any channel\n
+	+ Content?
+  1cbd	= Possession 
+	+ Remove from any channel
+  1cbe	= You have set your Mario\n
+	+ Satisfied with Mario Kart channel.\n
+	+ Deise Mario
+  1cbf	= Show message to\n
+	+ Mario Kart channel mode.
+  1cc0	= unmarriede\n
+	+ Data from the channel mode.
+  1cc1	= 
+  1ce8	= Data Exchange
+  1ce9	= Play on Mario Kart Wii\n
+	+ Nintendo WFC, or less\n
+	+ Automatic data\n
+	+ Post to Nintendo\n
+	+ Baby name given to you from my Mii\n
+	+ Record your audience and information.\n
+	+ This information is\n
+	+ The Mario Kart Wii ++\n
+	+ Anarchy.
+  1cea	= Confirmation data\n
+	+ Is Nintendo named?
+  1ceb	= Mushroom permit
+  1cec	= Limits 
+  1ced	= You have set exchange\n
+	+ of Mario Kart Wii data\n
+	+ to Permit.
+  1cee	= Change slash to setup\n
+	+ Mario Kart Wii Info\n
+	+ really?
+  1cef	= implement marked with\n
+	+ Mario Kart Wii Info\n
+	+ Protection.
+  1cf0	= Protect yourself,\n
+	+ For your Mii nnickname\n
+	+ Is Real an individual or an individual\n
+	+ My language\n
+	+ and any of the following:\n
+	+ My name.\n
+	+ In the permission mode, select Mii's guest.
+  1cf1	= 
+  1d4c	= Another month
+  1d4d	= other brain\n
+	+ Nintendo WFC\n
+	+ Other and score higher than\n
+	+ Mario Kart Wii website.\n
+	+ \n
+	+ Another thing, if you are satisfied, I will not choose \n
+	+ Share with other Miis\n
+	+ Yes.
+  1d4e	= Show another\n
+	+ Mar Miis\n
+	+ Mario Kart Wii,
+  1d4f	= Normal display
+  1d50	= Turn and display
+  1d51	= Add table\n
+	+ People come Miis \n
+	+ And \n
+	+ Mario Kart Wii.
+  1d52	= You have other special\n
+	+ In favor of\n
+	+ Watch show\n
+	+ Mario Kart Wii.
+  1d53	= Another month\n
+	+ \n
+	+ Developed by Miis \n
+	+ Nintendo. very good
+  1d54	/
+  1db0	/
+  1db1	/
+  1db2	/
+  1db3	/
+  1db4	/
+  1db5	/
+  1e14	= You can watch Mario Kart on Wii\n
+	+ Operates at 60 Hz (480i). Default location\n
+	+ Mode + 50 Hz (576i). If you have a TV like usually a TV\n
+	+ Current 60 Hz based on slide selection.\n
+	+ Connect to a TV in the Wii console settings.\n
+	+ Very good for showing a good heart.\n
+	+ \n
+	+ TV system + 60 Hz active \n
+	+ Click the + Sign button and then click Go.\n
+	+ Wii tablet.
+  1e15	= \z{e03,0,f035003cf034003c}
+  1e16	= Welcome!
+  1e17	= I want to send\n
+	+ commemorative photo to\n
+	+ Photo of Rome
+  1e18	= Wii Message Board?
+  1e19	= ... Posted in Forum\n
+	+ Picture of Rome \n
+	+ Article 
+  1e1a	= Wii Complete Message Board\n
+	+ Image and data mode\n
+	+ Because it's a Wii Message Board\n
+	+ Matias Yasal. :P\n
+	+ \n
+	+ Wii Complete Message Board\n
+	+ Emails will be deleted\n
+	+ Free space,\n
+	+ just
+  1e1b	= Continue to\n
+	+ Treant Mario Kart Wii!
+  1f40	= Welcome!\n
+	+ Now you can play\n
+	+ \z{802,110000} \z{802,110001}!
+  1f41	= Welcome!\n
+	+ Publish \n
+	+ Equipped with Heroicum +Glass!
+  1f42	= Welcome!\n
+	+ Publish \n
+	+ \z{802,110000}!
+  1f43	= Welcome!\n
+	+ Welcome\n
+	+ Recycle Bin and \z{802,110000}!
+  1f44	= Welcome!\n
+	+ Accuracy \n
+	+ Recycle Bin \z{802,110000}.
+  1f45	= Welcome!\n
+	+ Accuracy \n
+	+ kart, the \z{802,110000}.
+  1f46	= Welcome!\n
+	+ Lots of relaxing\n
+	+ Recycle Bin \z{802,110000}.
+  1f47	= Welcome!\n
+	+ Welcome \n
+	+ Rota, \z{802,110000}.
+  1f48	= Congratulations!\n
+	+ You've unlocked a medium\n
+	+ bike, the \z{802,110000}.
+  1f49	= Welcome!\n
+	+ Accuracy nang\n
+	+ Rota, \z{802,110000}.
+  1f4a	= Welcome!\n
+	+ Now you can play 50cc \n
+	+ Grand Prix (Cartan and Bicycle)!
+  1f4b	= Welcome!\n
+	+ Join the Grand Prix\n
+	+ 100cc (katana and bike)!
+  1f4c	/
+  1fa4	= You got an \z{802,110000} mushroom prize and a vase of flowers!
+  1fa5	= Star Cup Star \z{802,110000}!
+  1fa6	= \z{802,110000} strong cup of banana premium!
+  1fa7	= Cup of leaves\z{802,110000} I won!
+  1fa8	= We won £ 150 in our trophy!
+  1fa9	/
+  1fae	= You won a 100 cc cup!
+  1faf	= I was playing and it seemed to restore his character.
+  1fb0	= Have you bought the Nintendo WFC 1000 yet?
+  1fb1	= \u{f061} Every Wii Grand Prix 50cc!
+  1fb2	= You need a quick answer, 8 drinks!
+  1fb3	= I can make a 50 cc cup!
+  1fb4	= Everyone won a Grand Prix £ 100 \u{f061}!
+  1fb5	= I have a very special cup of 150 grams!
+  1fb6	= Is there such a change?
+  1fb7	= Special molded mirror \u{f061} function!
+  1fb8	= I got a gift on Super Mario Galaxy!
+  1fb9	= Wii \u{f061} Earn 150 cc Grand Prix !!
+  1fba	= These four employees decided their lives right away!
+  1fbb	= You have 25 ghosts!
+  1fbc	= Win the 50cc Star Cup!
+  1fbd	= Buy a special 100 cc cup.
+  1fbe	= Level 32 staff quickly guessed at the ghost!
+  1fbf	= Did you win the Nintendo WFC 5000 game?
+  1fc0	= You have 100 powers!
+  1fc1	= You have 250 spirits!
+  1fc2	/
+  1fcc	= Earn a 50-pound Grand Prix bag. \u{f061}!
+  1fcd	= And stop working immediately!
+  1fce	= Win 50 Nintendo WFC games!
+  1fcf	= Confirm Power Cup winner in mirror mode!
+  1fd0	= Winner of 50 Leaf Cup!
+  1fd1	= Yes, get a 150 cc cup!
+  1fd2	= The 24 employees are strong!
+  1fd3	= I have a special container of 50 cc.
+  1fd4	= Everyone has won a Grand Prix £\u{f061}!
+  1fd5	= 150ss Power Cup Holder!
+  1fd6	= 150cc Star Cup Championship!
+  1fd7	= And 8 different test modes to play!
+  1fd8	= 5 alcoholic beverages to win!
+  1fd9	= Grab a cup in front of a street mirror!
+  1fda	= Win a Power Cup worth £ 100!
+  1fdb	= Grand Prix Wii 100cc. \u{f061}!
+  1fdc	= Get Star Cup in mirror mode!
+  1fdd	= Get 100cc Star Cup!
+  1fde	= Quick release for 12 employees!
+  1fdf	= You have 200 spirits!
+  1fe0	= I touch the cup in a special way!
+  1fe1	= You have already won and the prize is not reflected in the 100 actions taken.
+  1fe2	= 100 actions taken.
+  1fe3	= Have you won 3000 Nintendo WFC games?
+  1fe4	= Because the game is: \z{a02,1000000000} billion!
+  1fe5	/
+  2008	= Normal
+  2009	= the wind
+  200a	= a friend
+  200b	= Nintendo wfc
+  200c	= Other registrations
+  2012	= Full trial
+  2013	= use
+  2014	= Total number of meetings
+  2015	= It's about the whole war
+  2016	= Wii details%
+  2017	= Pants
+  2018	= Favorite character
+  2019	= Your favorite car
+  201a	= the wind
+  201b	= Favorite level
+  201c	= Friends of the Nintendo WFC Race
+  201d	/
+  201e	= But problems with ghosts
+  201f	= Because it is a ghost
+  2020	= US (VR) location
+  2021	= Nintendo WFC Racing
+  2022	= Battery power (BR)
+  2023	= NFC War
+  2024	= First impression
+  2025	= Play 1% of the time
+  2026	= Delivery of goods
+  2027	= It will find again
+  2028	= A ghost of some kind
+  2029	= I'm kidding
+  202a	/
+  202b	/
+  202c	/
+  202d	/
+  202e	/
+  2044	= \z{802,110000}
+  2045	= \z{a02,1000000000}
+  2046	= \z{a02,1000000000}
+  2047	= \z{a02,1000000000}
+  2048	= \z{a02,1000000000} %
+  2049	= \z{a02,1000000000}
+  204a	= \z{802,110000}
+  204b	= \z{802,110000}
+  204c	= \z{802,110000}
+  204d	= \z{802,110000}
+  204e	= Winner: \z{a02,1000000000} Phone: \z{a02,1000010000}\040
+  204f	/
+  2050	= \z{a02,1000000000}
+  2051	= \z{a02,1000000000}
+  2052	= \z{a02,1000000000}
+  2053	= Winner: \z{a02,1000000000} Phone: \z{a02,1000010000}
+  2054	= \z{a02,1000000000}
+  2055	= Winner: \z{a02,1000000000} Phone: \z{a02,1000010000}
+  2056	= \z{a02,1000000000}
+  2057	= \z{a02,1000000000} %
+  2058	= \z{a02,1000000000}
+  2059	= \z{a02,1000000000}
+  205a	= Winner: \z{a02,1000000000} Phone: \z{a02,1000010000}
+  205b	= \z{a02,1000000000}
+  205c	/
+  20d0	/
+  20d1	/
+  20d2	/
+  20d3	/
+  20d4	/
+  20d5	= Congratulations =  %ls!\n
+	+ \n
+	+ Gather all that we offer. \n
+	+ Game prizes!\n
+	+ \n
+	+ Honoring this important event \n
+	+ We will tell you\n
+	+ Pictures in mind.\n
+	+ \n
+	+ Save the shopping cart!
+  20d6	= Congrats, %ls!\n
+	+ \n
+	+ You've managed to conquer every\n
+	+ Grand Prix in the game!\n
+	+ \n
+	+ To mark this momentous occasion,\n
+	+ we'd like to present you with a\n
+	+ commemorative photo.\n
+	+ \n
+	+ Keep karting!
+  20d7	/
+  20d8	/
+  20d9	/
+  20da	/
+  20db	/
+  20dc	/
+  20dd	/
+  20de	/
+  20df	/
+  20e0	/
+  20e1	/
+  20e2	/
+  20e3	/
+  20e4	/
+  20e5	/
+  20e6	/
+  20e7	/
+  20e8	/
+  20e9	/
+  20ea	/
+  20eb	/
+  20ec	/
+  20ed	/
+  20ee	/
+  20f8	/
+  20f9	/
+  20fa	/
+  20fb	/
+  20fc	/
+  20fd	/
+  20fe	/
+  20ff	/
+  2100	/
+  2101	/
+  2102	/
+  2103	/
+  2104	/
+  2105	/
+  2106	/
+  2107	/
+  2108	/
+  2109	/
+  210a	/
+  210b	/
+  210c	/
+  210d	/
+  210e	= Congratulations = %ls!\n
+	+ \n
+	+ If you win all 100 cups, the prize is already there
+	+  Grand Prix £ 100 (hybrid car)!
+  210f	/
+  2110	/
+  2116	/
+  2117	/
+  2118	/
+  2119	/
+  211a	/
+  211b	/
+  211c	/
+  211d	/
+  211e	/
+  211f	/
+  2120	/
+  2121	/
+  2122	/
+  2123	/
+  2124	/
+  2125	/
+  2126	/
+  212a	= Message\n
+	+ Mario Card Channel!\n
+	+ \n
+	+ \z{802,200000}\n
+	+ \n
+	+ \n
+	+ \n
+	+ [Destination]\n
+	+ \n
+	+ Send message\n
+	+ Mario Card + provides services through crime channels.\n
+	+ If you no longer want to\n
+	+ suggestions\n
+	+ Press the [Exit] button\n
+	+ And I do not accept\n
+	+ The message contains\n
+	+ All channels.\040
+  212b	= Message \n
+	+ Mario Card Channel!\n
+	+ \n
+	+ \z{802,200000}\n
+	+ \n
+	+ \n
+	+ \n
+	+ [Destination]\n
+	+ \n
+	+ Mario Card + provides services through crime channels.t\n
+	+ If you no longer want to\n
+	+ suggestions\n
+	+ Press the outgoing key\n
+	+ And I do not accept\n
+	+ and choose to not receive\n
+	+ The message contains\n
+	+ On all channels.\040
+  212c	= My friend called you.\n
+	+ Mario Wii Player Card + 1!\n
+	+ \n
+	+ Name +\n
+	+ %ls\n
+	+ \n
+	+ Friend password\n
+	+ %04d-%04d-%04d\n
+	+ \n
+	+ If your friend \n
+	+ Password, you can play together.\n
+	+ \n
+	+ Mario Wii + card player\n
+	+ I already have a Mario Card installed.\n
+	+ Channels can save them. \n
+	+ Weekly.\n
+	+ \n
+	+ Not all\n
+	+ Other answers. 
+  212d	= So\n
+	+ Your friend has invited you.\n
+	+ valley %ls!\n
+	+ \n
+	+ Mario Card Wii User Password\n
+	+ %04d-%04d-%04d\n
+	+ \n
+	+ ＊Friends \n
+	+ Spoon Friends Password\n
+	+ Report immediately.\n
+	+ \n
+	+ Registration \n
+	+ You can play with your friend + using your password.\n
+	+ It doesn't matter how long they've been together\n
+	+ Not you.\n
+	+ \n
+	+ Enjoy!\n
+	+ \n
+  212e	/
+  212f	/
+  2130	/
+  2131	/
+  2132	/
+  2133	/
+  2134	/
+  2138	/
+  2139	/
+  213e	/
+  213f	/
+  2140	/
+  2141	/
+  2142	/
+  2143	/
+  2144	/
+  2145	/
+  2146	/
+  2147	/
+  2148	/
+  2149	/
+  214a	/
+  214b	/
+  214c	/
+  214d	/
+  214e	/
+  214f	/
+  2150	/
+  2151	/
+  2152	/
+  215c	/
+  215d	/
+  215e	/
+  215f	/
+  2160	/
+  2161	/
+  2162	/
+  2163	/
+  2164	/
+  2165	/
+  2166	/
+  2167	/
+  2168	/
+  2169	/
+  216a	/
+  216b	/
+  216c	/
+  216d	/
+  216e	/
+  216f	/
+  2170	/
+  2171	/
+  2172	/
+  2173	/
+  2174	/
+  2175	/
+  2176	/
+  2177	/
+
+ 18697	/
+ 18698	/
+ 18699	/
+ 1869a	/
+ 1869b	/
+ 1869c	/
+ 1869d	/
+ 1869e	/
+
