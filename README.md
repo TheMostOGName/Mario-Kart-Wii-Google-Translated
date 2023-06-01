@@ -1,6 +1,10 @@
 # Mario-Kart-Wii-Google-Translated
 I will be translating all of Mario Kart Wii
 
+--- 
+This project has died. I have not actually worked on it in a pretty long time, there's a decent amount of stuff to do and this project has already been completed by other people I believe. 
+---
+
 # About:
 
 This is going to be an interesting project. I am going to Google Translate every single word in Mario Kart Wii.
